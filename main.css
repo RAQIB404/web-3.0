@@ -47,6 +47,7 @@ ul {
 .desk {
     display: flex;
     gap: 2rem;
+    margin-bottom: 20px;
 }
 
 .desk h1 {
@@ -57,7 +58,6 @@ ul {
     background-color: hsl(240, 100%, 5%);
     padding: 1.25rem 1.25rem;
     width: 420px;
-    height: 485px;
   }
 
   .desk > div:last-child h2{
@@ -68,7 +68,7 @@ ul {
 
   .desk > div:last-child p{
     color: #a4a5b9;
-    line-height: 1.8rem;
+    line-height: 2rem;
   }
 
   .desk > div:last-child article{
